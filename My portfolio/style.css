@@ -1,0 +1,30 @@
+
+                        h1 {
+                            color:rgb(168, 15, 182);
+                            
+                        }
+                        
+                   .header{
+                       background-color:aqua;
+                       display : flex;
+                       justify-content: space-between ;
+                   }
+
+                   .grid{  
+                       background-color:aqua;
+                       display : flex;
+                       flex-wrap: wrap;
+                       justify-content: space-evenly;
+                       
+                   }
+                   .footer{
+                            background-color:aqua;
+                            display : flex;
+                            justify-content: flex-end;
+                        
+                    }
+                    p,h1,h2{
+                        background-color:rgb(223,33,66);
+                        text-align: center;
+                    }
+                   
